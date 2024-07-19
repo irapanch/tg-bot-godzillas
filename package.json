@@ -1,8 +1,6 @@
 {
-  "name": "telebot-vercel-template",
-  "author": "Vladislav Ponomarev <PonomareVlad@users.noreply.github.com> (https://PonomareVlad.ru)",
-  "funding": "https://PonomareVlad.ru/donate",
-  "license": "MIT",
+  "name": "tg-bot-godzilla",
+  "author": "Iryna Panchenko <3041804428puh@gmail.com>",
   "scripts": {
     "dev": "vc dev",
     "dev-with-tunnel": "npm run tunnel & npm run dev",
